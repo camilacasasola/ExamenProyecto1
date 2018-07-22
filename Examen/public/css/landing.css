@@ -1,0 +1,196 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    min-height: 100%;
+    position: relative;
+}
+/*Estilos del header*/
+#TopHeader{
+    background-color: black;
+    color: #ffffff;
+    height: 50px;
+}
+#TopHeader h1{
+    position: absolute;
+    margin-left: 72%;
+    font-size: 15px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+#TopHeader h2{
+    position: absolute;
+    margin-left: 85%;
+    padding-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#middleheader{
+    height: 100px;
+}
+#middleheader h1{
+    padding-top: 1.9%;
+    padding-left: 45%; 
+    font-size: 40px;
+    font-weight: bold;
+    color: brown;
+
+}
+header nav {
+    background-color: brown ;
+    height: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    
+  }
+
+header nav a{
+    text-decoration: none;
+    color: black;
+    padding-left: 250px;
+}
+
+header nav a:hover{
+    color: white;
+    
+}
+#TopMenu{
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 100px;
+
+}
+header nav a:nth-child(2){
+    padding-left: 25px;
+
+}
+header nav a:nth-child(3){
+    padding-left: 15px;
+}
+header nav a:nth-child(4){
+    padding-left: 15px;
+}
+header nav a:nth-child(5){
+    padding-left: 15px;
+}
+header nav a:nth-child(6){
+    padding-left: 15px;
+}
+header nav a:nth-child(7){
+    padding-left: 15px;
+}
+header nav a:nth-child(8){
+    padding-left: 15px;
+}
+#imageicon{
+ width: 100%;
+ height: 500px;
+}
+#imgentrenador{
+  width: 15%;
+  height: 15%;
+  padding-left: 25%;
+  padding-right: 7%;
+  padding-top: 2%;
+
+}
+#imgpokemon{
+    width: 15%;
+    height: 15%;
+    padding-left: 17%;
+    padding-right: 5%;
+  
+  }
+#label_entrenadores{
+   padding-left:  25%;
+   font-weight: bold;
+   font-size: 200%;
+
+}
+#label_entrenadoresypokemones{
+    margin-top:3%;
+
+}
+#label_pokemons{
+    padding-left:  25%;
+    font-weight: bold;
+    font-size: 200%;
+
+}
+
+#botonesregistrar{
+  margin-top: 10%;
+  padding-left: 20%;
+}
+#btnRegistrarEntrenador{
+    width: 30%;
+    height: 30px;
+    margin-right: 20%;
+    font-weight: bold;
+    font-size: 100%;
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    margin-bottom: 100px;
+
+
+}
+#btnRegistrarPokemon{
+    width: 30%;
+    height: 30px;
+    margin-right: 10%;
+    font-weight: bold;
+    font-size: 100%;
+    background-color: black;
+    color: #ffffff;
+    border: none;
+}
+
+/*Estilos del footer*/
+footer {
+    background-color:gray;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 55px;
+    color: white;
+  }
+#FooterBottom h1{
+    position: absolute;
+    padding-top: 23px;
+    padding-left: 50px;
+
+}
+#FooterBottom h2{
+    position: absolute;
+    padding-top: 23px;
+    padding-left: 500px;
+
+}
+#FooterBottom h3{
+    position: absolute;;
+    padding-left: 89%;
+    padding-top: 23px;
+}
+#FooterBottom h4{
+    position: absolute;
+    padding-left: 89%;
+    padding-top: 23px;
+
+
+}
+#FooterBottom img{
+    position: relative;
+
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
